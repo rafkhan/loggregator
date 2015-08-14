@@ -1,0 +1,2 @@
+# loggregator
+Aggregated docker logs.
